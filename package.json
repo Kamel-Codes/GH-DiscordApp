@@ -1,0 +1,29 @@
+{
+  "name": "gh-discordapp",
+  "version": "1.0.0",
+  "description": "an Discord Bot for GHBOOST Server and Store to mange communication between seller and supplier and mange the Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamel-Codes/GH-DiscordApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kamel-Codes/GH-DiscordApp/issues"
+  },
+  "homepage": "https://github.com/Kamel-Codes/GH-DiscordApp#readme",
+  "devDependencies": {
+    "@types/node": "^26.5.1",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
